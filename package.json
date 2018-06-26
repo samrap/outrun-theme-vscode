@@ -1,0 +1,22 @@
+{
+    "name": "outrun",
+    "displayName": "Outrun",
+    "description": "Outrun is a Sublime Text color scheme inspired by the colors, style, and culture of the synthwave music scene.",
+    "version": "0.0.1",
+    "publisher": "samrapdev",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Outrun",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Outrun-color-theme.json"
+            }
+        ]
+    }
+}
