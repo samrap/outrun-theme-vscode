@@ -230,7 +230,7 @@
         {
             "scope": "meta.structure.dictionary.json string.quoted.double.json",
             "settings": {
-                "foreground": "#5dcdfd"
+                "foreground": "#1ea8fc"
             }
         },
         {
@@ -442,7 +442,7 @@
         "list.hoverBackground":"#6069a7",
         "list.activeSelectionForeground":"#19272d",
         "list.inactiveSelectionBackground":"#484f7d",
-        "list.focusBackground":"#6d6c79",
+        "list.focusBackground":"#6069a7",
         "editorLineNumber.foreground":"#303453",
         "editorIndentGuide.background":"#24273e",
         "editorWhitespace.foreground":"#303453",
@@ -450,22 +450,22 @@
         "editorLink.activeForeground":"#1ea8fc",
         "statusBar.noFolderBackground":"#1ea8fc",
         "statusBar.noFolderForeground": "#ffffff",
-        "input.background":"#10191d",
-        "input.foreground":"#b6ced8",
-        "input.border":"#34525e",
-        "input.placeholderForeground":"#3a5a68",
+        "progressBar.background":"#FF0081",
+        "input.background":"#0c0a20",
+        "input.foreground":"#ffffff",
+        "input.border":"#7984D1",
+        "input.placeholderForeground":"#7984D1",
         "inputOption.activeBorder":"#5dcdfd",
-        "progressBar.background":"#ffffff",
-        "focusBorder":"#1ea8fc",
-        "button.background":"#5dcdfd",
+        "focusBorder":"#ff0081",
+        "button.background":"#1ea8fc",
         "button.foreground":"#ffffff",
         "panel.background":"#090819",
         "editorWidget.background":"#484f7d",
         "editorWidget.border":"#484f7d",
         "panelTitle.activeBorder":"#FF0081",
-        "dropdown.background":"#152126",
-        "dropdown.border":"#152126",
-        "dropdown.foreground":"#b6ced8",
+        "dropdown.background":"#0c0a20",
+        "dropdown.border":"#7984D1",
+        "dropdown.foreground":"#ffffff",
         "panelTitle.inactiveForeground":"#598aa0",
         "panel.border":"#090819",
         "scrollbarSlider.activeBackground":"#484f7d",
@@ -530,6 +530,6 @@
         "scrollbar.shadow":"#070b0c",
         "editorSuggestWidget.highlightForeground":"#1ea8fc",
         "editorSuggestWidget.foreground":"#b6ced8",
-        "editorSuggestWidget.selectedBackground":"#3d606f"
-            }
+        "editorSuggestWidget.selectedBackground":"#1d2d34"
+    }
 }
