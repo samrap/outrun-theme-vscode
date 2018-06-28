@@ -73,7 +73,10 @@
         },
         {
             "name": "Class name",
-            "scope": "entity.name.class",
+            "scope": [
+                "entity.name.class",
+                "entity.name.type.class"
+            ],
             "settings": {
                 "fontStyle": "italic",
                 "foreground": "#A875FF"
@@ -88,6 +91,13 @@
             "settings": {
                 "fontStyle": "italic",
                 "foreground": "#ffd319"
+            }
+        },
+        {
+            "name": "Method Call",
+            "scope": "meta.method-call.php",
+            "settings": {
+                "foreground": "#F8F8F2"
             }
         },
         {
@@ -277,7 +287,14 @@
                 "keyword.other.use-as"
             ],
             "settings": {
-                "foreground": "#FF0081"
+                "foreground": "#ff2afc"
+            }
+        },
+        {
+            "name": "Function Argument",
+            "scope": "support.other.namespace.php",
+            "settings": {
+                "foreground": "#F8F8F2"
             }
         },
         {
@@ -296,6 +313,24 @@
             "settings": {
                 "foreground": "#ffffff",
                 "fontStyle": ""
+            }
+        },
+        {
+            "name": "PHPDoc Keyword",
+            "scope": "keyword.other.phpdoc.php",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#A875FF"
+            }
+        },
+        {
+            "name": "PHPDoc Type",
+            "scope": [
+                "keyword.other.type.php",
+                "meta.other.type.phpdoc.php"
+            ],
+            "settings": {
+                "foreground": "#7984D1"
             }
         },
         {
