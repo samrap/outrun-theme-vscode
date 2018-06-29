@@ -1,13 +1,27 @@
-# README
-## This is the README for your extension "outrun"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Outrun Theme for VS Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Outrun is a fully custom theme for VS Code inspired by the colors, style, and culture of the [synthwave](https://ironskullet.com/2018/03/01/what-is-synthwave-2018-edition/) music scene.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+---
 
-**Enjoy!**
+Looking for Sublime Text 3? [I got you covered](https://github.com/samrap/outrun-color-scheme-sublime)!
+
+---
+
+## Installation
+
+Coming soon...
+
+## Screenshots
+
+#### Ruby
+
+<img src="https://raw.githubusercontent.com/samrap/outrun-theme-vscode/master/screenshots/ruby.png" alt="Outrun Theme for Ruby" />
+
+#### PHP
+
+<img src="https://raw.githubusercontent.com/samrap/outrun-theme-vscode/master/screenshots/php.png" alt="Outrun Theme for Ruby" />
+
+#### With Sidebar & Terminal
+
+<img src="https://raw.githubusercontent.com/samrap/outrun-theme-vscode/master/screenshots/ruby-full.png" alt="Outrun Theme for Ruby" />
