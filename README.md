@@ -10,7 +10,9 @@ Looking for Sublime Text 3? [I got you covered](https://github.com/samrap/outrun
 
 ## Installation
 
-Coming soon...
+Outrun is available on the Extension Marketplace. Search for **Outrun**, install, and then set it as your theme!
+
+Alternatively, you may clone this repository into your `~/.vscode/extensions` directory.
 
 ## Screenshots
 
@@ -25,3 +27,7 @@ Coming soon...
 #### With Sidebar & Terminal
 
 <img src="https://raw.githubusercontent.com/samrap/outrun-theme-vscode/master/screenshots/ruby-full.png" alt="Outrun Theme for Ruby" />
+
+#### Fixes & Enhancements
+
+Outrun is a new theme and has not been tested with all languages/editor features. If you come across a weird style or have suggestions for improvements, submit an issue with the information.
