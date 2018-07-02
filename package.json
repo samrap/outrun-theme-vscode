@@ -9,7 +9,7 @@
   "icon": "images/icon.png",
   "galleryBanner": {
     "color": "#0c0a20",
-    "theme": "light"
+    "theme": "dark"
   },
   "engines": {
     "vscode": "^1.24.0"
