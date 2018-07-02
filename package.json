@@ -5,6 +5,11 @@
   "version": "0.1.0",
   "publisher": "samrapdev",
   "repository": "https://github.com/samrap/outrun-theme-vscode",
+  "icon": "./icon.png",
+  "galleryBanner": {
+    "color": "#0c0a20",
+    "theme": "light"
+  },
   "engines": {
     "vscode": "^1.24.0"
   },
