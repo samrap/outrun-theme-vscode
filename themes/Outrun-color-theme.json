@@ -167,6 +167,17 @@
             }
         },
         {
+            "name": "This, Super JS",
+            "scope": [
+                "variable.language.this.js",
+                "variable.language.super.js"
+            ],
+            "settings": {
+                "foreground": "#42c6ff",
+                "fontStyle": "italic"
+            }
+        },
+        {
             "name": "Invalid",
             "scope": "invalid",
             "settings": {
