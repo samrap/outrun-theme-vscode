@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "publisher": "samrapdev",
   "repository": "https://github.com/samrap/outrun-theme-vscode",
+  "homepage": "https://outruntheme.com",
   "icon": "./icon.png",
   "galleryBanner": {
     "color": "#0c0a20",
