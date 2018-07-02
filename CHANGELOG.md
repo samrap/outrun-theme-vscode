@@ -5,7 +5,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.1.3] - 2018-07-02
+### Changed
+- Changed Marketplace banner theme to `dark` even though docs reference this as the "font color". :/
+
 ## [0.1.2] - 2018-07-02
+### Added
 - Add icon and other marketplace niceties
 
 ## [0.1.0] - 2018-07-02
