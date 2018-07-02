@@ -94,15 +94,8 @@
             }
         },
         {
-            "name": "Method Call",
-            "scope": "meta.method-call.php",
-            "settings": {
-                "foreground": "#F8F8F2"
-            }
-        },
-        {
             "name": "Function name",
-            "scope": "entity.name.function",
+            "scope": "entity.name.function - meta.function-call",
             "settings": {
                 "fontStyle": "",
                 "foreground": "#ff9b50"
@@ -137,7 +130,7 @@
             "scope": "support.function",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#A3D6E0"
+                "foreground": "#ff9b50"
             }
         },
         {
@@ -167,10 +160,11 @@
             }
         },
         {
-            "name": "This, Super JS",
+            "name": "This, Super JS/PHP",
             "scope": [
                 "variable.language.this.js",
-                "variable.language.super.js"
+                "variable.language.super.js",
+                "variable.language.this.php"
             ],
             "settings": {
                 "foreground": "#42c6ff",
