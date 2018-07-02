@@ -5,7 +5,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-## [0.1.1] - 2018-07-02
+## [0.1.2] - 2018-07-02
 - Add icon and other marketplace niceties
 
 ## [0.1.0] - 2018-07-02
