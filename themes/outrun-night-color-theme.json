@@ -480,7 +480,7 @@
 
       // Editor
       "editor.background": "#161130",
-      "editor.foreground": "#f2f3f7",
+      "editor.foreground": "#ebecf8",
       "editorLineNumber.foreground":"#484f7d",
       "editorLineNumber.activeForeground": "#42c6ff",
       "editorCursor.foreground": "#ff2e97",
