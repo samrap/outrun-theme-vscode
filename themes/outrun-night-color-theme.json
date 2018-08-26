@@ -493,6 +493,12 @@
       "editor.wordHighlightStrongBackground":"#42c6ff63",
       "editor.lineHighlightBackground": "#161130",
 
+      // Editor Widget Colors
+      "editorWidget.background":"#484f7d",
+      "editorWidget.border":"#484f7d",
+      "editorHoverWidget.background": "#3b4167",
+      "editorHoverWidget.border": "#3b4167",
+
       // Editor Groups & Tabs
       "editorGroup.dropBackground": "#7984D1",
       "editorGroupHeader.noTabsBackground": "#0c0a20",
