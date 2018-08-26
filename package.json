@@ -20,9 +20,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Outrun",
+        "label": "Outrun Night",
         "uiTheme": "vs-dark",
-        "path": "./themes/Outrun-color-theme.json"
+        "path": "./themes/outrun-night-color-theme.json"
+      },
+      {
+        "label": "Outrun Electric",
+        "uiTheme": "vs-dark",
+        "path": "./themes/outrun-electric-color-theme.json"
       }
     ]
   }
