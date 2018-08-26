@@ -163,6 +163,7 @@
             "name": "This, Super JS/PHP",
             "scope": [
                 "variable.language.this.js",
+                "variable.language.this.ts",
                 "variable.language.super.js",
                 "variable.language.this.php"
             ],
