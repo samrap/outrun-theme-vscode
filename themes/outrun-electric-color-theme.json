@@ -95,7 +95,7 @@
         },
         {
             "name": "Function name",
-            "scope": "entity.name.function",
+            "scope": "entity.name.function - meta.function-call",
             "settings": {
                 "fontStyle": "",
                 "foreground": "#ff9b50"
@@ -163,6 +163,7 @@
             "name": "This, Super JS/PHP",
             "scope": [
                 "variable.language.this.js",
+                "variable.language.this.ts",
                 "variable.language.super.js",
                 "variable.language.this.php"
             ],
@@ -492,6 +493,12 @@
         "editor.wordHighlightBackground":"#ffffff22",
         "editor.wordHighlightStrongBackground":"#42c6ff63",
         "editor.lineHighlightBackground": "#0c0a20",
+
+        // Editor Widget Colors
+        "editorWidget.background":"#3b4167",
+        "editorWidget.border":"#3b4167",
+        "editorHoverWidget.background": "#3b4167",
+        "editorHoverWidget.border": "#3b4167",
   
         // Editor Groups & Tabs
         "editorGroup.dropBackground": "#7984D1",

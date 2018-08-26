@@ -5,6 +5,25 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.2.1] - 2018-08-26
+### Added
+- Styling for Editor Widgets in both Night and Electric
+- `this` keyword styling for TypeScript
+
+### Changed
+- Function names are no longer orange since we cannot scope to only declarations (See https://github.com/Microsoft/vscode-textmate/issues/52) :/
+
+## [0.2.0] - 2018-08-26
+### Added
+- Outrun Night theme. This is a less-intense version of the original Outrun theme
+- Outrun Electric theme. This is the original, high-contrast Outrun theme
+
+### Changed
+- Theme colors have been completely re-worked from the ground up. Editor features have been refined. Some features may be missing and will be implemented as noticed. Thank you for your patience :)
+
+### Removed
+- Outrun theme. The original Outrun theme has been split into Outrun Night and Outrun Electric. Choose one depending on your preferences.
+
 ## [0.1.3] - 2018-07-02
 ### Changed
 - Changed Marketplace banner theme to `dark` even though docs reference this as the "font color". :/
