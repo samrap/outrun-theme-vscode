@@ -95,7 +95,7 @@
         },
         {
             "name": "Function name",
-            "scope": "entity.name.function",
+            "scope": "entity.name.function - meta.function-call",
             "settings": {
                 "fontStyle": "",
                 "foreground": "#ff9b50"
