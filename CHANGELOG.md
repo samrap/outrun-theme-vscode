@@ -5,6 +5,14 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.2.1] - 2018-08-26
+### Added
+- Styling for Editor Widgets in both Night and Electric
+- `this` keyword styling for TypeScript
+
+### Changed
+- Function names are no longer orange since we cannot scope to only declarations (See https://github.com/Microsoft/vscode-textmate/issues/52) :/
+
 ## [0.2.0] - 2018-08-26
 ### Added
 - Outrun Night theme. This is a less-intense version of the original Outrun theme
