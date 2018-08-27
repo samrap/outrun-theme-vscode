@@ -5,6 +5,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.2.2] - 2018-08-27
+### Added
+- Styling for Peek View editor
+- Styling for indent guides and rulers
+- General color improvements
+
 ## [0.2.1] - 2018-08-26
 ### Added
 - Styling for Editor Widgets in both Night and Electric
