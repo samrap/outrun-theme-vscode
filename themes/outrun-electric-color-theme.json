@@ -493,6 +493,9 @@
         "editor.wordHighlightBackground":"#ffffff22",
         "editor.wordHighlightStrongBackground":"#42c6ff63",
         "editor.lineHighlightBackground": "#0c0a20",
+        "editorRuler.foreground":"#484f7d",
+        "editorIndentGuide.background": "#2d2844",
+        "editorIndentGuide.activeBackground": "#484f7d",
 
         // Editor Widget Colors
         "editorWidget.background":"#3b4167",
