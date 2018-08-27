@@ -6,6 +6,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 ### Added
 - Styling for indent guides and rulers
+- General color improvements
 
 ## [0.2.1] - 2018-08-26
 ### Added
