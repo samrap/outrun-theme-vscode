@@ -4,7 +4,10 @@
     "tokenColors": [
         {
             "name": "Comment",
-            "scope": "comment",
+            "scope": [
+                "comment",
+                "string.quoted.docstring.multi.python"
+            ],
             "settings": {
               "foreground": "#546A90",
               "fontStyle": "italic"
@@ -527,7 +530,7 @@
         "list.dropBackground": "#7984D1",
         "list.focusBackground": "#8a45a3",
         "list.hoverBackground": "#8a45a3",
-        "list.inactiveSelectionBackground": "#646dac",
+        "list.inactiveSelectionBackground": "#131033",
         "list.errorForeground": "#ff2e97",
         "list.warningForeground": "#ff2e97",
   

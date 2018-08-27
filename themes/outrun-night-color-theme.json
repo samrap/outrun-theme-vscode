@@ -4,7 +4,10 @@
   "tokenColors": [
     {
       "name": "Comment",
-      "scope": "comment",
+      "scope": [
+          "comment",
+          "string.quoted.docstring.multi.python"
+      ],
       "settings": {
         "foreground": "#546A90",
         "fontStyle": "italic"
@@ -526,7 +529,7 @@
       "list.dropBackground": "#7984D1",
       "list.focusBackground": "#8a45a3",
       "list.hoverBackground": "#8a45a3",
-      "list.inactiveSelectionBackground": "#646dac",
+      "list.inactiveSelectionBackground": "#161130",
       "list.errorForeground": "#ff2e97",
       "list.warningForeground": "#ff2e97",
 
@@ -562,6 +565,14 @@
       "panelTitle.activeForeground": "#f9faff",
       "panelTitle.inactiveForeground": "#7984D1",
 
+      // Peek View
+      "peekView.border": "#ff9b50",
+      "peekViewEditor.background": "#110d26",
+      "peekViewEditor.matchHighlightBackground": "#161130",
+      "peekViewEditor.matchHighlightBorder": "#161130",
+      "peekViewResult.background": "#0c0a20",
+      "peekViewTitle.background": "#0c0a20",
+
       // Title Bar Colors
       "titleBar.activeBackground": "#0c0a20",
 
@@ -573,7 +584,7 @@
       "gitDecoration.conflictingResourceForeground":"#df85ff",
 
       // Integrated Terminal
-      "terminal.background":"#090819",
+      "terminal.background":"#0c0a20",
       "terminal.foreground":"#e4eeff",
       "terminal.ansiBlack":"#283034",
       "terminal.ansiRed":"#ff2e97",
