@@ -5,6 +5,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 ### Added
+- Styling for Peek View editor
 - Styling for indent guides and rulers
 - General color improvements
 
