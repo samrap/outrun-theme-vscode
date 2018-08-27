@@ -571,7 +571,9 @@
       "peekViewEditor.matchHighlightBackground": "#161130",
       "peekViewEditor.matchHighlightBorder": "#161130",
       "peekViewResult.background": "#0c0a20",
+      "peekViewResult.selectionBackground": "#ff9b50",
       "peekViewTitle.background": "#0c0a20",
+      "peekViewTitleDescription.foreground": "#7984D1",
 
       // Title Bar Colors
       "titleBar.activeBackground": "#0c0a20",
