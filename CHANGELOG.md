@@ -4,6 +4,8 @@ All notable changes to the "outrun" extension will be documented in this file.
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+
+## [0.2.2] - 2018-08-27
 ### Added
 - Styling for Peek View editor
 - Styling for indent guides and rulers
