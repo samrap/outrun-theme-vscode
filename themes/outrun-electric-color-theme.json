@@ -496,6 +496,9 @@
         "editorRuler.foreground":"#484f7d",
         "editorIndentGuide.background": "#2d2844",
         "editorIndentGuide.activeBackground": "#484f7d",
+        "editorError.foreground": "#ff2e97",
+        "editorWarning.foreground": "#ff9b50",
+        "editorInfo.foreground": "#7984D1",
 
         // Editor Widget Colors
         "editorWidget.background":"#3b4167",
@@ -525,8 +528,8 @@
         "list.focusBackground": "#8a45a3",
         "list.hoverBackground": "#8a45a3",
         "list.inactiveSelectionBackground": "#646dac",
-        "list.errorForeground": "#ff0000",
-        "list.warningForeground": "#ff0000",
+        "list.errorForeground": "#ff2e97",
+        "list.warningForeground": "#ff2e97",
   
         // Input Control
         "input.background": "#0c0a20",
