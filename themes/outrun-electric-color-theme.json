@@ -98,7 +98,10 @@
         },
         {
             "name": "Function name",
-            "scope": "entity.name.function - meta.function-call",
+            "scope": [
+	         "entity.name.function - meta.function-call",
+		 "entity.name.function"
+	    ],
             "settings": {
                 "fontStyle": "",
                 "foreground": "#ff9b50"
@@ -148,7 +151,14 @@
             "name": "Library class/type",
             "scope": [
                 "support.type",
-                "support.class"
+                "support.class",
+		"entity.name.class",
+		"meta.class entity.name.type.class",
+		"meta.class entity.name.type.class.js",
+		"entity.name.type.js",
+		"entity.name.type.module.js",
+		"entity.name.type.ts",
+		"entity.name.type.tsx"
             ],
             "settings": {
                 "fontStyle": "italic",
@@ -473,15 +483,15 @@
     "colors": {
         "foreground":"#f2f3f7",
         "descriptionForeground": "#f2f3f7",
-  
+
         // Buttons
         "button.background":"#1ea8fc",
         "button.hoverBackground": "#1ea8fc",
         "button.foreground":"#f2f3f7",
-  
+
         // Progress Bar
         "progressBar.background":"#ff2e97",
-  
+
         // Editor
         "editor.background": "#0c0a20",
         "editor.foreground": "#f2f3f7",
@@ -508,7 +518,7 @@
         "editorWidget.border":"#3b4167",
         "editorHoverWidget.background": "#3b4167",
         "editorHoverWidget.border": "#3b4167",
-  
+
         // Editor Groups & Tabs
         "editorGroup.dropBackground": "#7984D1",
         "editorGroupHeader.noTabsBackground": "#090819",
@@ -518,12 +528,12 @@
         "tab.inactiveBackground": "#090819",
         "tab.inactiveForeground": "#7984D1",
         "tab.border": "#0c0a20",
-  
+
         // Side Bar
         "sideBar.background": "#090819",
         "sideBarSectionHeader.background": "#0c0a20",
         "sideBarSectionHeader.foreground": "#7984D1",
-  
+
         // Lists & Trees
         "list.activeSelectionBackground": "#d86bff",
         "list.activeSelectionForeground": "#ffffff",
@@ -533,31 +543,31 @@
         "list.inactiveSelectionBackground": "#131033",
         "list.errorForeground": "#ff2e97",
         "list.warningForeground": "#ff2e97",
-  
+
         // Input Control
         "input.background": "#0c0a20",
         "input.placeholderForeground": "#7984D1",
         "input.border": "#763b8c",
         "inputOption.activeBorder": "#ff9b50",
-  
+
         // Scrollbar Control
         "scrollbar.shadow":"#090819",
         "scrollbarSlider.activeBackground":"#919ad9",
         "scrollbarSlider.background":"#9199d94f",
         "scrollbarSlider.hoverBackground":"#9199d9b4",
-  
+
         // Activity Bar
         "activityBar.background": "#0c0a20",
         "activityBar.foreground": "#7984D1",
         "activityBarBadge.background":"#ff2e97",
         "activityBarBadge.foreground":"#ffffff",
-  
+
         // Status Bar
         "statusBar.background":"#090819",
         "statusBar.foreground":"#7984D1",
         "statusBar.noFolderBackground":"#1ea8fc",
         "statusBar.noFolderForeground": "#ffffff",
-  
+
         // Panel Colors
         "panel.background": "#090819",
         "panel.border": "#090819",
@@ -578,14 +588,14 @@
 
         // Title Bar Colors
         "titleBar.activeBackground": "#090819",
-  
+
         // Git Colors
         "gitDecoration.modifiedResourceForeground":"#ffd400",
         "gitDecoration.deletedResourceForeground":"#ff2e97",
         "gitDecoration.untrackedResourceForeground":"#42c6ff",
         "gitDecoration.ignoredResourceForeground":"#7984D1",
         "gitDecoration.conflictingResourceForeground":"#df85ff",
-  
+
         // Integrated Terminal
         "terminal.background":"#090819",
         "terminal.foreground":"#e4eeff",
