@@ -100,8 +100,8 @@
             "name": "Function name",
             "scope": [
 	         "entity.name.function - meta.function-call",
-		 "entity.name.function"
-	    ],
+		     "entity.name.function"
+	        ],
             "settings": {
                 "fontStyle": "",
                 "foreground": "#ff9b50"
