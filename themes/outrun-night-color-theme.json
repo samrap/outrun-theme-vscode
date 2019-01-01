@@ -98,7 +98,10 @@
   },
   {
       "name": "Function name",
-      "scope": "entity.name.function - meta.function-call",
+      "scope": [
+        "entity.name.function - meta.function-call",
+        "entity.name.function"
+      ],
       "settings": {
           "fontStyle": "",
           "foreground": "#ff9b50"
@@ -147,9 +150,14 @@
   {
       "name": "Library class/type",
       "scope": [
-          "support.type",
-          "support.class"
-      ],
+        "support.type",
+        "support.class",
+        "entity.name.class",
+        "entity.name.type.js",
+        "entity.name.type.module.js",
+        "entity.name.type.ts",
+        "entity.name.type.tsx"
+    ],
       "settings": {
           "fontStyle": "italic",
           "foreground": "#42c6ff"
