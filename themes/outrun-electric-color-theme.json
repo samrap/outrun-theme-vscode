@@ -491,6 +491,7 @@
         "progressBar.background":"#ff2e97",
 
         // Editor
+        "editorCursor.background": "#ffffff",
         "editor.background": "#0c0a20",
         "editor.foreground": "#f2f3f7",
         "editorLineNumber.foreground":"#484f7d",
@@ -526,6 +527,7 @@
         "tab.inactiveBackground": "#090819",
         "tab.inactiveForeground": "#7984D1",
         "tab.border": "#0c0a20",
+        "tab.activeBorder": "#ffd400",
 
         // Side Bar
         "sideBar.background": "#090819",
