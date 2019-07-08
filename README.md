@@ -6,7 +6,7 @@ This is my own version of Samrap's Outrun vscode theme.
 	- The JS syntax has some syntax enhancment
 	- The UI has some small fixes / improvement
 
-![Javascript]("./screenshots/js.png")
+![Javascript]("screenshots/js.png")
 
 Built by [Sam Rapaport](https://samrapdev.com)
 
