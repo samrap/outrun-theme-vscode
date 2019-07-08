@@ -3,7 +3,11 @@ All notable changes to the "outrun" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [Released]
+
+## [1.0.0] - 2019-07-08
+- JS enhancements for function & class
+- UI fixes (hover, activeTab border)
 
 ## [0.2.2] - 2018-08-27
 ### Added
@@ -40,7 +44,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.1.0] - 2018-07-02
 ### Added
-- Add orange foreground on library functions 
+- Add orange foreground on library functions
 - Add cyan foreground and italic font on PHP `this` keyword
 ### Changed
 - Remove foreground color from function calls
