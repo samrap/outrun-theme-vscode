@@ -5,7 +5,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Released]
 
-## [1.0.0] - 2019-07-08
+## [1.0.1] - 2019-07-08
 - JS enhancements for function & class
 - UI fixes (hover, activeTab border)
 
