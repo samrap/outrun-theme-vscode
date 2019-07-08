@@ -1,10 +1,10 @@
 {
   "name": "outrun",
   "displayName": "Outrun",
-  "description": "A theme for VS Code inspired by the colors, style, and culture of the synthwave music scene.",
-  "version": "0.2.2",
-  "publisher": "samrapdev",
-  "repository": "https://github.com/samrap/outrun-theme-vscode",
+  "description": "My own version of Samrap's outrun VS Code theme",
+  "version": "1.0",
+  "publisher": "hhochart29",
+  "repository": "https://github.com/hhochart29/outrun-theme-vscode",
   "homepage": "https://outruntheme.com",
   "icon": "images/icon.png",
   "galleryBanner": {
