@@ -97,7 +97,7 @@
       "scope": "variable.parameter",
       "settings": {
         "fontStyle": "",
-        "foreground": "#FFFFFF"
+        "foreground": "#dddddd"
       }
     },
     {
@@ -299,7 +299,7 @@
       "name": "Function argument",
       "scope": "variable.other",
       "settings": {
-        "foreground": "#ffffff",
+        "foreground": "#dddddd",
         "fontStyle": ""
       }
     },
@@ -446,9 +446,9 @@
     "progressBar.background": "#ff2e97",
 
     // Editor
-    "editorCursor.background": "#ffffff",
+    "editorCursor.background": "#dddddd",
     "editor.background": "#161130",
-    "editor.foreground": "#ebecf8",
+    "editor.foreground": "#dddddd",
     "editorLineNumber.foreground": "#484f7d",
     "editorLineNumber.activeForeground": "#42c6ff",
     "editorCursor.foreground": "#ff2e97",
@@ -457,7 +457,7 @@
     "editor.findMatchBackground": "#484f7d",
     "editor.findMatchHighlightBackground": "#484f7d80",
     "editor.hoverHighlightBackground": "#42c6ff2a",
-    "editor.wordHighlightBackground": "#ffffff22",
+    "editor.wordHighlightBackground": "#dddddd22",
     "editor.wordHighlightStrongBackground": "#42c6ff63",
     "editor.lineHighlightBackground": "#161130",
     "editorRuler.foreground": "#484f7d",
@@ -491,7 +491,7 @@
 
     // Lists & Trees
     "list.activeSelectionBackground": "#d86bff",
-    "list.activeSelectionForeground": "#ffffff",
+    "list.activeSelectionForeground": "#dddddd",
     "list.dropBackground": "#7984D1",
     "list.focusBackground": "#8a45a3",
     "list.hoverBackground": "#8a45a3",
@@ -515,13 +515,13 @@
     "activityBar.background": "#161130",
     "activityBar.foreground": "#7984D1",
     "activityBarBadge.background": "#ff2e97",
-    "activityBarBadge.foreground": "#ffffff",
+    "activityBarBadge.foreground": "#dddddd",
 
     // Status Bar
     "statusBar.background": "#0c0a20",
     "statusBar.foreground": "#7984D1",
     "statusBar.noFolderBackground": "#1ea8fc",
-    "statusBar.noFolderForeground": "#ffffff",
+    "statusBar.noFolderForeground": "#dddddd",
 
     // Panel Colors
     "panel.background": "#0c0a20",

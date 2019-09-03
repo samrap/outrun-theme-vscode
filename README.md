@@ -36,4 +36,4 @@ Alternatively, you may clone this repository into your `~/.vscode/extensions` di
 
 #### Fixes & Enhancements
 
-Feel free to submit PR or issue if you see some bugs / improvments to be made !
+Feel free to submit PR or issue if you see some bugs / improvements to be made !
