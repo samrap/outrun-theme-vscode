@@ -434,7 +434,7 @@
     }
   ],
   "colors": {
-    "foreground": "#f9faff",
+    "foreground": "#7984D1",
     "descriptionForeground": "#f9faff",
 
     // Buttons
@@ -478,7 +478,7 @@
     "editorGroupHeader.noTabsBackground": "#0c0a20",
     "editorGroupHeader.tabsBackground": "#0c0a20",
     "tab.activeBackground": "#161130",
-    "tab.activeForeground": "#f9faff",
+    "tab.activeForeground": "#7984D1",
     "tab.inactiveBackground": "#0c0a20",
     "tab.inactiveForeground": "#7984D1",
     "tab.border": "#161130",
@@ -490,11 +490,11 @@
     "sideBarSectionHeader.foreground": "#7984D1",
 
     // Lists & Trees
-    "list.activeSelectionBackground": "#d86bff",
-    "list.activeSelectionForeground": "#dddddd",
+    "list.activeSelectionBackground": "#ff2afc",
+    "list.activeSelectionForeground": "#f9faff",
     "list.dropBackground": "#7984D1",
-    "list.focusBackground": "#8a45a3",
-    "list.hoverBackground": "#8a45a3",
+    "list.focusBackground": "#161130",
+    "list.hoverBackground": "#161130",
     "list.inactiveSelectionBackground": "#161130",
     "list.errorForeground": "#ff2e97",
     "list.warningForeground": "#ff2e97",
@@ -515,7 +515,7 @@
     "activityBar.background": "#161130",
     "activityBar.foreground": "#7984D1",
     "activityBarBadge.background": "#ff2e97",
-    "activityBarBadge.foreground": "#dddddd",
+    "activityBarBadge.foreground": "#7984D1",
 
     // Status Bar
     "statusBar.background": "#0c0a20",
