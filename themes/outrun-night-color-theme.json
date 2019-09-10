@@ -490,10 +490,11 @@
     "sideBarSectionHeader.foreground": "#7984D1",
 
     // Lists & Trees
-    "list.activeSelectionBackground": "#ff2afc",
+    "list.activeSelectionBackground": "#9199d94f",
     "list.activeSelectionForeground": "#f9faff",
     "list.dropBackground": "#7984D1",
-    "list.focusBackground": "#161130",
+    "list.focusBackground": "#9199d94f",
+    "list.focusForeground": "#f9faff",
     "list.hoverBackground": "#161130",
     "list.inactiveSelectionBackground": "#161130",
     "list.errorForeground": "#ff2e97",
@@ -515,7 +516,7 @@
     "activityBar.background": "#161130",
     "activityBar.foreground": "#7984D1",
     "activityBarBadge.background": "#ff2e97",
-    "activityBarBadge.foreground": "#7984D1",
+    "activityBarBadge.foreground": "#0c0a20",
 
     // Status Bar
     "statusBar.background": "#0c0a20",

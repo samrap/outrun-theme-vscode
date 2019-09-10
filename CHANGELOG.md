@@ -5,6 +5,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Released]
 
+## [1.0.3] - 2019-07-08
+- UI fixes (sidebar font with lower contrast)
+
 ## [1.0.1] - 2019-07-08
 - JS enhancements for function & class
 - UI fixes (hover, activeTab border)
