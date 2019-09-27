@@ -438,9 +438,9 @@
     "descriptionForeground": "#f9faff",
 
     // Buttons
-    "button.background": "#1ea8fc",
-    "button.hoverBackground": "#1ea8fc",
-    "button.foreground": "#f9faff",
+    "button.background": "#161130",
+    "button.hoverBackground": "#161130",
+    "button.foreground": "#ff2e97",
 
     // Progress Bar
     "progressBar.background": "#ff2e97",
@@ -466,12 +466,16 @@
     "editorError.foreground": "#ff2e97",
     "editorWarning.foreground": "#ff9b50",
     "editorInfo.foreground": "#7984D1",
+    "notifications.background": "#0c0a20",
+		"notifications.border": "#ff2e97",
+    "notifications.foreground": "#7984d1",
+    "notificationLink.foreground": "#ff2e97",
 
     // Editor Widget Colors
-    "editorWidget.background": "#484f7d",
+    "editorWidget.background": "#161130",
     "editorWidget.border": "#484f7d",
-    "editorHoverWidget.background": "#3b4167",
-    "editorHoverWidget.border": "#3b4167",
+    "editorHoverWidget.background": "#0c0a20",
+    "editorHoverWidget.border": "#7984D1",
 
     // Editor Groups & Tabs
     "editorGroup.dropBackground": "#7984D1",
@@ -503,7 +507,7 @@
     // Input Control
     "input.background": "#161130",
     "input.placeholderForeground": "#7984D1",
-    "input.border": "#763b8c",
+    "input.border": "#7984D1",
     "inputOption.activeBorder": "#ff9b50",
 
     // Scrollbar Control
