@@ -3,10 +3,11 @@
 This is my own version of Samrap's Outrun vscode theme.
 
 ## Changes from original theme
-	- The JS syntax has some syntax enhancment
-	- The UI has some small fixes / improvement
 
-![Javascript](screenshots/js.png)
+    - Typescript & Javascript syntax support
+    - UI has overall lower contrast
+
+![Typescript](screenshots/typescript.png)
 
 ---
 
