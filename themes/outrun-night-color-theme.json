@@ -467,6 +467,24 @@
       "settings": {
         "foreground": "#A3D6E0"
       }
+    },
+    {
+      "name": "Component",
+      "scope": ["support.class.component.html", "support.class.component.tsx"],
+      "settings": {
+        "foreground": "#ffd400"
+      }
+    },
+    {
+      "name": "Keyword assignment",
+      "scope": [
+        "keyword.operator.assignment.tsx",
+        "punctuation.section.embedded.end.tsx",
+        "punctuation.section.embedded.begin.tsx"
+      ],
+      "settings": {
+        "foreground": "#A3D6E0"
+      }
     }
   ],
   "colors": {

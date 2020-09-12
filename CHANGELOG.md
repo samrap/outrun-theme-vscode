@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Released]
 
+## [1.1.3] - 2020-09-11
+
+- Component syntax highlighting for front-end JS framework
+
 ## [1.1.0] - 2020-09-11
 
 - White a little more vibrant
