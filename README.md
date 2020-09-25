@@ -1,14 +1,17 @@
 # Outrun Theme for VS Code
 
-Outrun is a fully custom theme for VS Code inspired by the colors, style, and culture of the [synthwave](https://ironskullet.com/2018/03/01/what-is-synthwave-2018-edition/) music scene.
+This is my own version of Samrap's Outrun vscode theme.
 
-The official landing page can be found at [https://outruntheme.com](https://outruntheme.com)
+## Changes from original theme
 
-Built by [Sam Rapaport](https://samrapdev.com)
+    - Typescript & Javascript syntax support
+    - UI has overall lower contrast
+
+![Typescript](screenshots/typescript.png)
 
 ---
 
-Looking for Sublime Text 3? [I got you covered](https://github.com/samrap/outrun-color-scheme-sublime)!
+Built originally by [Sam Rapaport](https://samrapdev.com)
 
 ---
 
@@ -34,4 +37,4 @@ Alternatively, you may clone this repository into your `~/.vscode/extensions` di
 
 #### Fixes & Enhancements
 
-Outrun is a new theme and has not been tested with all languages/editor features. If you come across a weird style or have suggestions for improvements, submit an issue with the information.
+Feel free to submit PR or issue if you see some bugs / improvements to be made !
