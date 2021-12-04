@@ -8,7 +8,7 @@ Built by [Sam Rapaport](https://samrapdev.com)
 
 ---
 
-Looking for Sublime Text 3? [I got you covered](https://github.com/samrap/outrun-color-scheme-sublime)!
+Looking for Sublime Text 3? [I got you covered](https://github.com/samrap/outrun-color-scheme-sublime)! A port of this theme for Atom is also available [here](https://github.com/StephKeys/sweet-synthwave-syntax).
 
 ---
 
