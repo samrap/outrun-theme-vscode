@@ -605,5 +605,8 @@
         "terminal.ansiBrightMagenta":"#ff2afc",
         "terminal.ansiBrightCyan":"#42c6ff",
         "terminal.ansiBrightWhite":"#f4f6f9",
+        
+        // Menu Colors
+        "menu.background":"#070612"
     }
   }
